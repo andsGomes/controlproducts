@@ -10,7 +10,7 @@ namespace osenums.Entities
 
         public override string ToString()
         {
-            return @"Id:{Id}, Data:{Moment}, Status:{Status}";
+            return $"Id:{Id}, Data:{Moment}, Status:{Status}";
         }
         
     }
